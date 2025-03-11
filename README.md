@@ -1,9 +1,4 @@
 ## Hi there 👋
-## Skills
-
--**Languages**: C, Python, Java
--**Web Development**": React.js, Bootstrap, HTML,CSS
--**Database**: MySQL
 
 <!--
 **SaiKeerthii/Saikeerthii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
