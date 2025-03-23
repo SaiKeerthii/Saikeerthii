@@ -13,10 +13,8 @@
 
 ## 📌 About Me
 - 🌟 Aspiring Software Developer  
-- 🎓 Undergraduate student in **CSE (AI & ML) at VMTW**  
-- 🏆 **GSSOC'24 Open Source Contributor**  
-- 💡 Passionate about **Web Development, AI & ML**  
-- 📬 How to reach me: **kalakotakeerthy@gmail.com**  
+- 🎓 Undergraduate student in **CSE (AI & ML) at VMTW**    
+- 💡 Passionate about **Web Development, AI & ML**   
 
 ---
 
@@ -53,15 +51,4 @@
 
 ---
 
-## 🔗 Connect with Me  
-<p align="center">
-  <a href="mailto:kalakotakeerthy@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="http://www.linkedin.com/in/keerthi-kalakota-a80327325">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SaiKeerthii">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
