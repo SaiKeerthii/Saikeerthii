@@ -1,4 +1,4 @@
-<h1 align="center">Hi there !! 👋 I'm SaiKeerthy </h1>
+<h1 align="center">Hi there !! 👋 I'm SaiKeerthi </h1>
 
 <p align="center">
   <a href="mailto:kalakotakeerthy@gmail.com">
