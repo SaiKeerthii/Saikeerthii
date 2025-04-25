@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SaiKeerthii&label=Profile%20views&color=ff69b4&style=flat" alt="SaiKeerthii" />
+</p>
+
 <!-- Header with Soft Sky Theme -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=SaiKeerthi%20-%20Web%20Developer%20%F0%9F%8C%9E&height=120&fontColor=ffffff&fontSize=28&animation=fadeIn" />
@@ -12,6 +16,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 
